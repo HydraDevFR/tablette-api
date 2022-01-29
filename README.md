@@ -4,7 +4,7 @@ Afin de configurer la touche d'ouverture de la tablette rendez-vous dans:<br>
 - remplacer par if IsControlJustReleased(0, <b>LATOUCHEQUEVOUSSOUHAITEZ</b>) and IsInputDisabled(0) then<br>
 - ensure tablette (<b>NE MODIFIER PAS LE NOM DE LA RESSOURCE</b>)
 <hr>
-Vidéo: https://www.youtube.com/watch?v=GIZQn3fxoS8
+Vidéo: https://www.youtube.com/watch?v=GIZQn3fxoS8 <br>
 Lien pour les touches: https://docs.fivem.net/docs/game-references/controls/
 <hr>
 Hébergeur FiveM Vraiment pas chers c'est ici -> http://fiveheberg.fr/ <br>
