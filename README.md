@@ -5,6 +5,7 @@ Afin de configurer la touche d'ouverture de la tablette rendez-vous dans:<br>
 - ensure tablette (<b>NE MODIFIER PAS LE NOM DE LA RESSOURCE</b>)
 <hr>
 Vidéo: https://www.youtube.com/watch?v=GIZQn3fxoS8
+Lien pour les touches: https://docs.fivem.net/docs/game-references/controls/
 <hr>
 Hébergeur FiveM Vraiment pas chers c'est ici -> http://fiveheberg.fr/ <br>
 Discord de FiveHeberg.fr -> https://discord.gg/ehcYrtYkYD
