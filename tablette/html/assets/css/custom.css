@@ -1,0 +1,15 @@
+.controllist {
+  height: fit-content;
+  vertical-align: middle;
+}
+.controllist div.col-md-4 {
+  min-height: 15rem;
+  height: fit-content;
+  vertical-align: middle;
+  padding-bottom: 3rem;
+}
+.controllist div.col-md-4 img {
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+}

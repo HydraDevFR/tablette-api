@@ -1,0 +1,50 @@
+body {
+  background-color: transparent;
+}
+
+.hidden {
+	display: none;
+}
+
+.system-frame {
+  position: relative;
+  top: 50vh;
+  left: 50vw;
+  transform: translate(-50%, -50%);
+  height: 90vh;
+  width: 76vw;
+}
+
+.system-frame>img {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+
+.system {
+  position: relative;
+  top: 50%;
+  left: 49.9%;
+  transform: translate(-50%, -50%);
+  height: 90%;
+  width: 71vw;
+}
+
+.iframe {
+  height: 81.5vh;
+  width: 100%;
+  border: none;
+  border-radius: 5px;
+}
+
+.buttons {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%);
+  bottom: -1px;
+  border-top-left-radius: 0.7rem;
+  border-top-right-radius: 0.7rem;
+  height: 5%;
+  width: auto;
+}
+
